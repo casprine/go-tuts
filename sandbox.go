@@ -7,10 +7,10 @@ import (
 	"math/rand"
 )
 
-func main() {
-	// fmt.Println(inferedVariables())
-	typeConversion()
-}
+// func main() {
+// 	// fmt.Println(inferedVariables())
+// 	typeConversion()
+// }
 
 func GetVersion() {
 	fmt.Println("This current version is", rand.Intn(10))
