@@ -6,7 +6,7 @@ import (
 	"runtime"
 )
 
-func main() {
+func flowsMain() {
 	// fmt.Println(boogiewoogie())
 	stackedDefer()
 }
