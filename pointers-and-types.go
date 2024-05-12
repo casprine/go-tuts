@@ -10,7 +10,7 @@ type Vertex struct {
 	Y int
 }
 
-func main() {
+func pointersAndTypes() {
 	f := finbonaci()
 	for i := 0; i < 10; i++ {
 		fmt.Println(f())
